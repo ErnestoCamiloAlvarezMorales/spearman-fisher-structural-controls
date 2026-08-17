@@ -36,8 +36,8 @@ The script generates:
 * A scatter plot with a regression line and the Spearman Rho and p-value.
 * A count plot visualizing the categorical distribution of mineralized vs. barren samples by lithology, including the Fisher p-value.
 
-![Prueba de Fisher](Prueba_de_Fishert.png)
-![Correlación Spearman](Correlación_Spearman.png)
+![Prueba de Fisher](fisher_plot.png)
+![Correlación Spearman](spearman_plot.png)
 
 ---
 ## How to Use
