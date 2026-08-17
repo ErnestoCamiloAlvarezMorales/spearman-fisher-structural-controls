@@ -36,10 +36,19 @@ The script generates:
 ---
 
 ## How to Use
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/ErnestoCamiloAlvarezMorales/spearman-fisher-structural-controls.git](https://github.com/ErnestoCamiloAlvarezMorales/spearman-fisher-structural-controls.git)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-alvarez-1400ba190/)
 
+1. Clone the repository.
+2. Install dependencies: pip install pandas scipy seaborn matplotlib
+3. Run the Jupyter Notebook.
+4. Input your integrated dataset (CSV with Distance to fault, Cu %, and Lithology) to validate your own exploration targets.
+
+---
+
+## Author
+
+**Ernesto Álvarez** — Geology Student | Self-Taught Data Science Practitioner
+
+Applying data science and statistical methods to economic geology and mineral exploration.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernesto-alvarez-1400ba190/)
 
 
